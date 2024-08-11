@@ -1,3 +1,5 @@
+# Note
+
 <div align="center">
 <img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
 </div>
@@ -42,6 +44,8 @@ Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://
 
 5. Open the [Config file](./src/data/resume.tsx) and make changes
 
+
+NOTE:-  I am not original creator of this Project , Original creator is Dillion Verma ,Click here (https://github.com/dillionverma) to can check out his work   .
 # License
 
 Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
